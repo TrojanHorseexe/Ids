@@ -1,0 +1,10 @@
+--For good players only aka the script kidde and the best owner ;)--
+
+local id = {
+    247303753, -- Trojan
+    1522422417, -- Vxy
+    2309409679, -- Stand1
+    3146347123, -- Stand2
+  }
+  
+  return id;
